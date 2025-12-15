@@ -11,6 +11,7 @@ my practical data analysis skills and continuous learning.
 - Excel
 - SQL (MySQL)
 - Power BI
+- Tableau
 - Python (basic)
 - Data cleaning and transformation
 
@@ -19,4 +20,4 @@ my practical data analysis skills and continuous learning.
 - Air Quality Analysis across UK Regions – planned
 
 ## Tools
-Excel, SQL, Power BI, Python
+Excel, SQL, Power BI, Tableau, Python
